@@ -5,11 +5,11 @@ obs.: dentro doas cochetes[]fica o nome que faz com que a imagem mostre um nome 
 
 ![Homem letra](https://github.com/Jairo-GitHub-Principal/ReadmMD_markdown/blob/master/homem_letra.gif)
 
-### adicionar um video 
-![Video teste](https://youtu.be/J9rIHTIhSVg"video de teste")
+### Video do youtube 
+[![alt logitetch video youtube ](https://github.com/Jairo-GitHub-Principal/ReadmMD_markdown/blob/master/Screenshot_1.png)](https://youtu.be/J9rIHTIhSVg)
 
-### link para acessar um site no caso aqui sera meu github
-[Jairo github](https://github.com/Jairo-GitHub-Principal)
+### link para acessar meu github
+[![Jairo github](https://github.com/Jairo-GitHub-Principal/ReadmMD_markdown/blob/master/github.png)](https://github.com/Jairo-GitHub-Principal)
 
 
 
