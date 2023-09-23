@@ -1,3 +1,10 @@
+# selos:
+![GitHub repo size](https://img.shields.io/github/repo-size/Jairo-GitHub-Principal/ReadmMD_markdown)
+![GitHub followers](https://img.shields.io/github/followers/Jairo-GitHub-Principal)
+![GitHub](https://img.shields.io/github/license/Jairo-GitHub-Principal/ReadmMD_markdown)
+
+
+
 # editando o arquivo Readme.md
 
 ### abaixo iremos adicionar uma imagem.git de um homem feito com letras
